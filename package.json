@@ -31,13 +31,13 @@
   "devDependencies": {
     "chai": "^3.4.1",
     "coveralls": "^2.11.6",
-    "gulp": "^3.9.0",
-    "gulp-clean": "^0.3.1",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
     "gulp-file-insert": "^1.0.2",
     "gulp-foreach": "^0.1.0",
-    "gulp-rename": "^1.2.2",
+    "gulp-rename": "^1.4.0",
     "gulp-replace": "^0.5.4",
-    "gulp-uglify": "^1.5.1",
+    "gulp-uglify": "^1.5.4",
     "jquery": "^2.1.4",
     "karma": "^0.13.19",
     "karma-chai": "^0.1.0",
@@ -46,6 +46,6 @@
     "karma-phantomjs-launcher": "^0.2.3",
     "mocha": "^2.3.4",
     "phantomjs": "^1.9.19",
-    "run-sequence": "^1.1.5"
+    "run-sequence": "^1.2.2"
   }
 }
